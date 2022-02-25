@@ -1,0 +1,125 @@
+#sec1 {
+  background-image: url("../pics/back.png");
+}
+
+.qud {
+  margin-bottom: 60px
+}
+.logo {
+  width: 170px;
+  height: 120px;
+}
+
+.limit1 {
+  color: #ffffff;
+  text-align: center;
+  font-weight: bold;
+  font-size: 50px;
+  margin-left: 39px;
+  margin-right: 39px;
+}
+
+.limit2 {
+  color: #ffffff;
+  margin-left: 39px;
+  margin-right: 39px;
+  text-align: center;
+  font-size: 26px;
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+.limit3 {
+  color: #ffffff;
+  text-align: center;
+  margin-left: 62.2031px;
+  margin-right: 62.2031px;
+  padding-left: 71.7969;
+  padding-right: 71.7969;
+  font-size: 23px;
+}
+section {
+    margin-bottom: 5px
+}
+#sec2 {
+  background: #000000;
+}
+
+#sec3 {
+  background: #000000;
+}
+
+#sec4 {
+  background: #000000;
+}
+
+#sec5 {
+  background: #000000;
+}
+
+.big {
+  width: 400px;
+  height: 350px;
+  align-self: center;
+}
+
+.col-sm {
+  margin-bottom: 10px
+}
+
+.was {
+  color: #fff
+}
+
+body {
+  background-color: #515A5A
+}
+
+#sec6 {
+  background-color: #000000
+}
+.vast {
+  color: #fff;
+  text-align: center;
+  font-weight: bold;
+}
+
+.accordion {
+  width: 50%;
+  height: 50%
+}
+
+.card {
+  color: #fff;
+  background-color: #515A5A;
+  color: #fff;
+  font-size: 20px
+}
+
+.jar {
+  float: right;
+}
+
+.pet {color: #fff; text-align: center; font-size: 20px}
+
+#sec7 {
+  color: #fff;
+  background: #000000;
+}
+
+.sax {
+  font-size: 13px;
+  margin-bottom: 10px
+}
+
+#sec8 {
+  background: #000000;
+  margin-bottom: 0
+}
+
+.last {
+  color: #fff;
+  font-weight: bold;
+  text-align: center;
+  font-size: 15px
+}
